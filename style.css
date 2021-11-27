@@ -1,0 +1,39 @@
+.card__container {
+  display: flex;
+  height: 5rem;
+  width: 100%;
+}
+
+.card {
+  width: 20%;
+  height: 50%;
+}
+
+#cardOne {
+  background-color: #e3f2fd;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+#cardTwo {
+  background-color: #bbdefb;
+  color: white;
+}
+
+#cardThree {
+  background-color: #90caf9;
+  color: white;
+}
+
+#cardFour {
+  background-color: #64b5f6;
+  color: white;
+}
+
+#cardFive {
+  background-color: #42a5f5;
+  color: white;
+}
